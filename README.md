@@ -7,13 +7,13 @@ My career goal is to secure a junior SOC Analyst role where I can contribute to 
 
 
 # skills 
-soc analyst home lab 
-firewall log analysis
-nmap scanning
-experience with siem tools like ibm qradar,slunk,microsoft sentinel and logrythm
+soc analyst home lab, 
+firewall log analysis,
+nmap scanning,
+experience with siem tools like ibm qradar,splunk,microsoft sentinel and logrythm
 
 # certifications
-comptia security+ planned
+comptia security+ planned,
 blue team certified planned
 
 #linkedin
